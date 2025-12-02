@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "EcoTravel Prototipo",
-    "slug": "ecotravel-prototipo",
+    "name": "Cataalogos de Lugares",
+    "slug": "Viagens",
     "version": "1.0.0",
     "platforms": ["ios", "android", "web"]
   }
